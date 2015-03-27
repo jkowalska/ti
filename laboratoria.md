@@ -11,7 +11,7 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 ```console
 1. [Nazwisko Imię](link do strony na GitHub). [Notacje](link do repo z kodem).
 ```
-
+6.[Kowalska Joanna](jkowalska.github.io). [Notacje](https://github.com/jkowalska/LabTI).
 
 ## Egzamin
 
