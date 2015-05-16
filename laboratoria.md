@@ -20,3 +20,7 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 ```console
 1. [Nazwa zespołu](link do PRYWATNEGO repo z kodem). [Nazwa aplikacji](link do aplikacji na Heroku).
 ```
+
+```console
+1. [Joanna Kowalska Natalia Ruchlewicz](https://bitbucket.org/projekt_inf/meteor-chat). [meteor-chat](http://meteor-chat.meteor.com).
+```
